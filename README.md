@@ -35,9 +35,12 @@ Ensure you have Python 3.x installed on your system. You can download it from [p
 
 ### Clone the Repository
 bash
+```plaintext
 git clone https://github.com/umar-saleem-7/Tic-Tac-Toe-using-Alpha-Beta-Pruning.git
+```
+```plaintext
 cd tic-tac-toe-alpha-beta
-
+```
 
 ### Install Dependencies
 This project uses only the built-in *Tkinter* module. No additional installations are required.
